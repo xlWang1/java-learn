@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/chapter12/src/TestCollectionContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/IteratorTest/TestIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,32 +67,12 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCollectionContains.test03">
+  <component name="RunManager" selected="JUnit.TestForeach.test01">
     <configuration name="TestCollectionContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter12" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestCollectionContains" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCollectionContains.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter12" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCollectionContains" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCollectionContains.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter12" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCollectionContains" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,12 +87,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestForeach.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForEachTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ForEachTest" />
+      <option name="MAIN_CLASS_NAME" value="ForEachTest.TestForeach" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIterator.removetest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IteratorTest" />
+      <option name="MAIN_CLASS_NAME" value="IteratorTest.TestIterator" />
+      <option name="METHOD_NAME" value="removetest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIterator.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IteratorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IteratorTest" />
+      <option name="MAIN_CLASS_NAME" value="IteratorTest.TestIterator" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestForeach.test01" />
+        <item itemvalue="JUnit.TestIterator.removetest" />
+        <item itemvalue="JUnit.TestIterator.test" />
         <item itemvalue="JUnit.TestCollectionContains.test03" />
         <item itemvalue="JUnit.TestCollectionContains" />
-        <item itemvalue="JUnit.TestCollectionContains.test02" />
-        <item itemvalue="JUnit.TestCollectionContains.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718331997643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="..">
+      <option name="closed" value="true" />
+      <created>1718333503949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718333503949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
