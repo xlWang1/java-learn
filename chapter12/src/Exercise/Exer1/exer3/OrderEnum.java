@@ -2,9 +2,9 @@ package Exercise.Exer1.exer3;
 
 public enum OrderEnum {
     ADDSONG(1),
-    ZHIDING(2),
+    TUICHU(4),
     SHANGYI(3), // 这里需要为SHANGYI赋值3
-    TOTOP(4);
+    TOTOP(2);
 
     private final int value;
 

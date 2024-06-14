@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="迭代器与增强for循环">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer1/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer2/listTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/KTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/OrderEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter12/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/KTV.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/KTV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/OrderEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/OrderEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +48,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "D:/java/java_learn/chapter12",
+    "last_opened_file_path": "F:/java学习资料/java_learn/java-learn",
     "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -75,13 +70,13 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.listTest">
-    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEachTest.ForTest" />
+  <component name="RunManager" selected="Application.KTV">
+    <configuration name="KTV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer3.KTV" />
       <module name="chapter12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForEachTest.*" />
+          <option name="PATTERN" value="Exercise.Exer1.exer3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KTV" />
         <item itemvalue="Application.listTest" />
         <item itemvalue="JUnit.listTest" />
         <item itemvalue="Application.StudentTest" />
         <item itemvalue="JUnit.StudentTest.test" />
-        <item itemvalue="Application.ForTest" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718331200443</updated>
+      <workItem from="1718365962345" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
@@ -207,6 +203,9 @@
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
