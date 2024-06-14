@@ -1,80 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/chapter11_String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/chapter11_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1559746309093.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1562945799274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1562946547647.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1562946558630.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1562946595771.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1563106868437.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1563199557136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1563199860263.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1572599023197.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/1620277709044.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220123184906903.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220228153030902.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405152839525.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405152941599.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405152955544.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405153009463.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405153027693.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405160149200.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405160321172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405174233055.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405174310879.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405174414780.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405221714261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405223542750.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220405225828816.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220406000442908.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220406001726285.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220406003340258.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220407003312680.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220503120722810.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220511105252261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/image-20220514184404024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/images/第3阶段：Java高级应用-第11章.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/Persion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StingDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringBufferDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/StringMethodTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/StudentTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/StudentsComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/TimeAndDateApi/TEst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/UerLoin/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/UerLoin/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/exer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/src/exer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/尚硅谷_宋红康_第11章_常用类和基础API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/AndAllTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/ListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/ListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/尚硅谷_宋红康_第12章_集合框架.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/Calc/src/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/Calc/src/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/src/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/src/HappyNewYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/src/SaleTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chater10/src/SaleTicket1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_learn.iml" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +15,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2hqovIre7hC1vXGgIYZx9RjNQ9e" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -100,7 +42,8 @@
     "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2850575"
+    "project.structure.side.proportion": "0.2850575",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -124,6 +67,28 @@
       <option name="presentableId" value="Default" />
       <updated>1718331200443</updated>
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <option name="closed" value="true" />
+      <created>1718331689773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718331689773</updated>
+    </task>
+    <task id="LOCAL-00002" summary="..">
+      <option name="closed" value="true" />
+      <created>1718331782164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718331782164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
 </project>
