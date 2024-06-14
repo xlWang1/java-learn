@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/IteratorTest/TestIterator.java" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="迭代器与增强for循环">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer1/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer2/listTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/KTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/Exercise/Exer1/exer3/OrderEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/ForTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/ForEachTest/TestForeach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter12/src/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter12/src/ListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -67,27 +75,9 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestForeach.test01">
-    <configuration name="TestCollectionContains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter12" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCollectionContains" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCollectionContains.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter12" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestCollectionContains" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestForeach.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.listTest">
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachTest.ForTest" />
       <module name="chapter12" />
       <extension name="coverage">
         <pattern>
@@ -95,53 +85,74 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ForEachTest" />
-      <option name="MAIN_CLASS_NAME" value="ForEachTest.TestForeach" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIterator.removetest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer1.StudentTest" />
       <module name="chapter12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IteratorTest.*" />
+          <option name="PATTERN" value="Exercise.Exer1.exer1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="IteratorTest" />
-      <option name="MAIN_CLASS_NAME" value="IteratorTest.TestIterator" />
-      <option name="METHOD_NAME" value="removetest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIterator.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="listTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer2.listTest" />
       <module name="chapter12" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IteratorTest.*" />
+          <option name="PATTERN" value="Exercise.Exer1.exer2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="IteratorTest" />
-      <option name="MAIN_CLASS_NAME" value="IteratorTest.TestIterator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exer1.exer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exercise.Exer1.exer1" />
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer1.StudentTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="listTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exer1.exer2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Exercise.Exer1.exer2" />
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer2.listTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestForeach.test01" />
-        <item itemvalue="JUnit.TestIterator.removetest" />
-        <item itemvalue="JUnit.TestIterator.test" />
-        <item itemvalue="JUnit.TestCollectionContains.test03" />
-        <item itemvalue="JUnit.TestCollectionContains" />
+        <item itemvalue="Application.listTest" />
+        <item itemvalue="JUnit.listTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="JUnit.StudentTest.test" />
+        <item itemvalue="Application.ForTest" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718333503949</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="迭代器与增强for循环">
+      <option name="closed" value="true" />
+      <created>1718336258436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718336258436</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +222,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="迭代器与增强for循环" />
+    <option name="LAST_COMMIT_MESSAGE" value="迭代器与增强for循环" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

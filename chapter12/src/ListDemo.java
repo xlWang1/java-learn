@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ListDemo {
     /*List 接口的基本方法：
-    * 1.添加元素：你可以使用 add() 方法将元素添加到列表的末尾;add(index, element)将元素插入到指定索引
+    * 1.添加元素：你可以使用 add() 方法将元素添加到列表的末尾;add(index, element)将元素插入到指定索引;addAll(int index, Collection eles):从index位置开始将eles中的所有元素添加进来
     * 2.获取元素：使用 get() 方法根据索引获取列表中的元素。索引从 0 开始计数，表示第一个元素
     * 3.删除元素：使用 remove() 方法根据索引或元素值删除列表中的元素
     * 4.获取列表大小：使用 size() 方法获取列表中元素的数量。
