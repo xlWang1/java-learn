@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="collention结束">
-      <change afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/info_copy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/FileInput_OutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/src/FileStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter15/尚硅谷_宋红康_第15章_File类与IO流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/chapter18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/src/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/src/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/chapter15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_learn.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +54,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "20",
-    "last_opened_file_path": "F:/java学习资料/java_learn/java-learn/chapter15",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/javacode/java-learn",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2850575",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,64 +77,60 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileStreamTest">
-    <configuration name="FileInput_OutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileInput_OutputStreamTest" />
-      <module name="chapter15" />
+  <component name="RunManager" selected="JUnit.ServerTest.ServerTest">
+    <configuration name="InetAddressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InetAddressTest" />
+      <module name="chapter18" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileStreamTest" />
-      <module name="chapter15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FikeReaderWriterTest.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FikeReaderWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter15" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FikeReaderWriterTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FikeReaderWriterTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter15" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.ServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServerTest" />
+      <option name="METHOD_NAME" value="ServerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringDemo" />
       <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FikeReaderWriterTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter15" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileStreamTest" />
-        <item itemvalue="Application.FileInput_OutputStreamTest" />
-        <item itemvalue="TestNG.FikeReaderWriterTest.test5" />
-        <item itemvalue="TestNG.FikeReaderWriterTest.test4" />
-        <item itemvalue="TestNG.FikeReaderWriterTest.test3" />
+        <item itemvalue="JUnit.ServerTest.ServerTest" />
+        <item itemvalue="Application.InetAddressTest" />
+        <item itemvalue="JUnit.FikeReaderWriterTest" />
+        <item itemvalue="JUnit.FikeReaderWriterTest.test2" />
+        <item itemvalue="JUnit.StringDemo.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +146,8 @@
       <workItem from="1718415101328" duration="3122000" />
       <workItem from="1718523918151" duration="10431000" />
       <workItem from="1719019218990" duration="11057000" />
+      <workItem from="1719068115098" duration="608000" />
+      <workItem from="1719068788190" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
