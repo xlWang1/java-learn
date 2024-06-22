@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="编写KTV点歌系统">
-      <change afterPath="$PROJECT_DIR$/chapter12/src/MapTest/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/MapTest/Exer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/MapTest/Exer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter12/src/MapTest/MapDemo1.java" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="collention结束">
+      <change afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/info_copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/src/FileInput_OutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/src/FileStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/尚硅谷_宋红康_第15章_File类与IO流.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,30 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/java学习资料/java_learn/java-learn&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/java_learn/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2850575&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "F:/java学习资料/java_learn/java-learn/chapter15",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2850575",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java学习资料\java_learn\java-learn\chapter15" />
       <recent name="D:\java\java_learn\chapter12" />
       <recent name="D:\java\java_learn\chapter11" />
       <recent name="D:\java\java_learn\chater10" />
@@ -72,81 +78,64 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exer2">
-    <configuration name="Exer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapTest.Exer1" />
-      <module name="chapter12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MapTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.FileStreamTest">
+    <configuration name="FileInput_OutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInput_OutputStreamTest" />
+      <module name="chapter15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapTest.Exer2" />
-      <module name="chapter12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MapTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileStreamTest" />
+      <module name="chapter15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KTV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer3.KTV" />
-      <module name="chapter12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise.Exer1.exer3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FikeReaderWriterTest.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer2.listTest" />
-      <module name="chapter12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise.Exer1.exer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="FikeReaderWriterTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter12" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercise.Exer1.exer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Exercise.Exer1.exer2" />
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exer1.exer2.listTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="FikeReaderWriterTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chapter15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exer2" />
-        <item itemvalue="Application.Exer1" />
-        <item itemvalue="Application.KTV" />
-        <item itemvalue="Application.listTest" />
-        <item itemvalue="JUnit.listTest" />
+        <item itemvalue="Application.FileStreamTest" />
+        <item itemvalue="Application.FileInput_OutputStreamTest" />
+        <item itemvalue="TestNG.FikeReaderWriterTest.test5" />
+        <item itemvalue="TestNG.FikeReaderWriterTest.test4" />
+        <item itemvalue="TestNG.FikeReaderWriterTest.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +149,8 @@
       <updated>1718331200443</updated>
       <workItem from="1718365962345" duration="4651000" />
       <workItem from="1718415101328" duration="3122000" />
-      <workItem from="1718523918151" duration="10386000" />
+      <workItem from="1718523918151" duration="10431000" />
+      <workItem from="1719019218990" duration="11057000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
@@ -209,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718368115646</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="collention结束">
+      <created>1718547669347</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718547669347</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +228,19 @@
     <MESSAGE value=".." />
     <MESSAGE value="迭代器与增强for循环" />
     <MESSAGE value="编写KTV点歌系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="编写KTV点歌系统" />
+    <MESSAGE value="collention结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="collention结束" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter12/src/MapTest/Exer2.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
