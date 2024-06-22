@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="文件读取1">
-      <change afterPath="$PROJECT_DIR$/chapter15/src/ClientTest.java" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="collention结束">
+      <change afterPath="$PROJECT_DIR$/chapter18/chapter18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/src/InetAddressTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter18/src/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/chapter15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_learn.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,28 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/java学习资料/java_learn/java-learn/chapter15&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/java_learn/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2850575&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/javacode/java-learn",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2850575",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\java学习资料\java_learn\java-learn\chapter15" />
@@ -70,64 +77,60 @@
       <recent name="D:\java\java_learn\chater10\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ClientTest.Client">
-    <configuration name="FileInput_OutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileInput_OutputStreamTest" />
-      <module name="chapter15" />
+  <component name="RunManager" selected="JUnit.ServerTest.ServerTest">
+    <configuration name="InetAddressTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InetAddressTest" />
+      <module name="chapter18" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileStreamTest" />
-      <module name="chapter15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClientTest.Client" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter15" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ClientTest" />
-      <option name="METHOD_NAME" value="Client" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FikeReaderWriterTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FikeReaderWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter15" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FikeReaderWriterTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.ServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServerTest" />
+      <option name="METHOD_NAME" value="ServerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringDemo" />
       <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FikeReaderWriterTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="chapter15" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FikeReaderWriterTest" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ClientTest.Client" />
-        <item itemvalue="Application.FileStreamTest" />
-        <item itemvalue="Application.FileInput_OutputStreamTest" />
-        <item itemvalue="TestNG.FikeReaderWriterTest.test5" />
-        <item itemvalue="TestNG.FikeReaderWriterTest.test4" />
+        <item itemvalue="JUnit.ServerTest.ServerTest" />
+        <item itemvalue="Application.InetAddressTest" />
+        <item itemvalue="JUnit.FikeReaderWriterTest" />
+        <item itemvalue="JUnit.FikeReaderWriterTest.test2" />
+        <item itemvalue="JUnit.StringDemo.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -142,8 +145,9 @@
       <workItem from="1718365962345" duration="4651000" />
       <workItem from="1718415101328" duration="3122000" />
       <workItem from="1718523918151" duration="10431000" />
-      <workItem from="1719019218990" duration="11709000" />
-      <workItem from="1719073363010" duration="1440000" />
+      <workItem from="1719019218990" duration="11057000" />
+      <workItem from="1719068115098" duration="608000" />
+      <workItem from="1719068788190" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
@@ -199,14 +203,7 @@
       <option name="project" value="LOCAL" />
       <updated>1718547669347</updated>
     </task>
-    <task id="LOCAL-00008" summary="文件读取1">
-      <created>1719059303431</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1719059303431</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,8 +226,7 @@
     <MESSAGE value="迭代器与增强for循环" />
     <MESSAGE value="编写KTV点歌系统" />
     <MESSAGE value="collention结束" />
-    <MESSAGE value="文件读取1" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件读取1" />
+    <option name="LAST_COMMIT_MESSAGE" value="collention结束" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
