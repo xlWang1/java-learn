@@ -16,6 +16,7 @@ public class ServerSide {
             Scanner input = new Scanner(System.in);
             System.out.println("请为接受的文件命名：");
             String filename = input.next();
+            input.close();
             //定义端口
             int port = 4060;
             //新建服务端
@@ -25,12 +26,11 @@ public class ServerSide {
             accept = serverSocket.accept();
             System.out.println("Received connection from client<>");
             //创建文件流
-            File revicefile = new File("revicefile.rar");
             File perserfile = new File(filename);
-            FileInputStream fis = new FileInputStream(revicefile);
+            InputStream is = accept.getInputStream();
             FileOutputStream ops = new FileOutputStream(perserfile);
             //使用缓冲流以提升效率
-            bufferedInputStream = new BufferedInputStream(fis);
+            bufferedInputStream = new BufferedInputStream(is);
             bufferedOutputStream = new BufferedOutputStream(ops);
             //读写文件
             byte[] buffer = new byte[102400];
@@ -74,6 +74,7 @@ public class ServerSide {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+
         }
 
 
