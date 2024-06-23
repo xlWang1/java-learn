@@ -5,16 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
-
-/**
- * ClassName: ServiceTest
- * Package: PACKAGE_NAME
- * Description: 垃圾代码
- *
- * @Author 王小龙
- * @Create 2024/6/22 23:58
- * @Version 1.0
- */
 public class ServerTest {
 
     @Test

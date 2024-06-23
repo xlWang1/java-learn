@@ -9,9 +9,9 @@ import java.net.UnknownHostException;
 
 public class ClientTest {
     @Test
-    public void Client() throws IOException {
+    public void Client(){
         int port = 8890;
-        String ip = "192.168.1.10";
+        String ip = "192.168.1.3";
         Socket socket = null;
         OutputStream message = null;
         try {
