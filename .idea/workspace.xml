@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="kehuduan">
-      <change afterPath="$PROJECT_DIR$/chapter15/src/FileTranslate/ServerSide.java" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="实现文件传输助手服务端编写">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter15/src/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/ClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter18/src/ServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter18/src/ServerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter15/src/FileTranslate/ClientSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/FileTranslate/ClientSide.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +146,7 @@
       <workItem from="1719019218990" duration="11057000" />
       <workItem from="1719068115098" duration="608000" />
       <workItem from="1719068788190" duration="4109000" />
-      <workItem from="1719103406365" duration="2484000" />
+      <workItem from="1719103406365" duration="3634000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
@@ -205,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718547669347</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="实现文件传输助手服务端编写">
+      <created>1719106178203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719106178203</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +232,8 @@
     <MESSAGE value="迭代器与增强for循环" />
     <MESSAGE value="编写KTV点歌系统" />
     <MESSAGE value="collention结束" />
-    <option name="LAST_COMMIT_MESSAGE" value="collention结束" />
+    <MESSAGE value="实现文件传输助手服务端编写" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现文件传输助手服务端编写" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
