@@ -35,6 +35,9 @@ public class ClientSide {
                 bufferedOutputStream.write(buffer, 0, len);
             }
             System.out.println("发送方发送完毕!!");
+            //表明发送完毕
+            socket.shutdownOutput();
+            //等待服务端反馈
             inputStream = socket.getInputStream();
             bops = new ByteArrayOutputStream();
             len = -1;
