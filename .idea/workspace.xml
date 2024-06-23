@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="collention结束">
-      <change afterPath="$PROJECT_DIR$/chapter18/chapter18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/src/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter18/src/ServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f6b40d31-899b-4344-ba98-cb691ac52f10" name="Changes" comment="服务端">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter15/chapter15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/chapter15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter15/src/FikeReaderWriterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_learn.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +34,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/javacode/java-learn",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/java/java_learn/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2850575",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/javacode/java-learn&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/java/java_learn/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2850575&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\java学习资料\java_learn\java-learn\chapter15" />
@@ -147,7 +139,8 @@
       <workItem from="1718523918151" duration="10431000" />
       <workItem from="1719019218990" duration="11057000" />
       <workItem from="1719068115098" duration="608000" />
-      <workItem from="1719068788190" duration="4109000" />
+      <workItem from="1719068788190" duration="5019000" />
+      <workItem from="1719100396916" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <option name="closed" value="true" />
@@ -203,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718547669347</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="服务端">
+      <created>1719074569785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719074569785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +226,8 @@
     <MESSAGE value="迭代器与增强for循环" />
     <MESSAGE value="编写KTV点歌系统" />
     <MESSAGE value="collention结束" />
-    <option name="LAST_COMMIT_MESSAGE" value="collention结束" />
+    <MESSAGE value="服务端" />
+    <option name="LAST_COMMIT_MESSAGE" value="服务端" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
